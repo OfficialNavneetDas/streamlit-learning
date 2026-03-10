@@ -54,11 +54,18 @@ streamlit-for-data-science/
 ├── asstes/  
 │ ├── 13729775.png  
 │ ├── Ride It [Lyrics] - Jay sean __ Hindi Version.mp3  
-│ ├── umbrella-anime-girl-city-night-rain-moewalls.com.mp4  
+│ ├── umbrella-anime-girl-city-night-rain-moewalls.com.mp4 
+│ ├── airlines_flights_data.csv  
+│ ├── caching-high-level-diagram.png  
+│ ├── fragment_diagram.png  
 │  
 ├── 1.Getting_started.py  
 ├── 2.More_in_streamlit.py  
-├── 3.form_panels.py  
+├── 3.form_panels.py 
+├── 4.statefullness.py  
+├── 5.caching.py  
+├── 6.fragments.py  
+├── 7.navigation.py  
 │  
 └── README.md  
 
